@@ -1,0 +1,33 @@
+.heading 
+{color:blue;
+font-size:40px;
+font-size: :40px;
+}
+.description{
+	color: red;
+	font-size: 20px;
+	border-style: dotted;
+	border-left:solid;
+
+}
+
+
+.image{width: 200px;position: relative;left: 20px
+}
+.circ1 {
+    stroke: green; 
+    fill: white;
+    stroke-width: 50;
+}
+
+.chart {
+    width: 210px;
+    height: 500px;
+}
+.triangle {
+    width: 1;
+    height: 0;
+    border: solid 10px;
+    border-color: transparent transparent red transparent;
+}
+
